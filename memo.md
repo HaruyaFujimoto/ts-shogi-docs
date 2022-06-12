@@ -30,3 +30,5 @@ checkmate
 Resignation
 resign
 
+file
+rank
